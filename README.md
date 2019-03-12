@@ -1,2 +1,3 @@
 # openclassrooms
-cours
+cours de git sur openclassrooms 
+
